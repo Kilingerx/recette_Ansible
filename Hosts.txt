@@ -3,7 +3,9 @@ Database
 Web
 
 [database]
-192.168…
-ansible-remoteuser=itescia
+192.168.41.128
+ansible-remote_user=itescia
+
 [Web]
-192.168..
+192.168.41.128
+ansible-remote_user=itescia
