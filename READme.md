@@ -1,1 +1,1 @@
-hello world
+Bonjour 2.0
