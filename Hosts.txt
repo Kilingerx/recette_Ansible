@@ -4,8 +4,9 @@ Web
 
 [database]
 192.168.41.129
-ansible-remote_user=itescia
 
 [Web]
 192.168.41.128
-ansible-remote_user=itescia
+
+[all:vars]
+ansible_user=itescia
