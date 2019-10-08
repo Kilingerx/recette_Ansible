@@ -3,10 +3,10 @@ database
 web
 
 [database]
-192.168.41.129
+192.168.41.128
 
 [web]
-192.168.41.128
+192.168.41.130
 
 [all:vars]
 ansible_user=root
