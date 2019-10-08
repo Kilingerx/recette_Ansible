@@ -9,4 +9,4 @@ Web
 192.168.41.128
 
 [all:vars]
-ansible_user:itescia
+ansible_user:root
