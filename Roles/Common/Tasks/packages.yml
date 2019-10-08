@@ -1,9 +1,0 @@
----
-- name: Install packages
-    package:
-    name: htop
-    state: present
-- name: Install packages 2 
-    package:
-    name: 
-    state: present
