@@ -16,7 +16,7 @@
     state: present
     
 - name: authorized key
-  autorized_key: 
+  authorized_key: 
     user: itesciadmin
     key: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC0bexFWKGiq3Hr25wQO392dySU2d9etwIArcUKZB7oO7d6OqmQk8NEc6JgQmI5JsC56BK/H7sBCweKlK0Q19VE2To8eQFNfNJwR0E5QmVm5SY10QxVY/u4EOPwqiByRtGmt7GGyqxMrAmF+pWMC6/Nsyykk2LSQ56zuwJeOlyv2a8Hm3cMWNiW4xBAIVj2lOTRqhF5CG35rgg3m/oWK3iZlOKgNdC96YCySkRMAoeRKFeEwny62JJHuUCDkbto89BfZijqN4Ea0NdaWhGUUTWn0NSVx2Ymu5TJbEJ+tgssE12qy43/Aly7LqIDZDPnWWyiHve+yWynXBgFzYJ+PCXj root@srv-1'
     state: present
