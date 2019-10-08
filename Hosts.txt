@@ -1,12 +1,12 @@
 [all]
-Database
-Web
+database
+web
 
 [database]
 192.168.41.129
 
-[Web]
+[web]
 192.168.41.128
 
 [all:vars]
-ansible_user:root
+ansible_user=root
