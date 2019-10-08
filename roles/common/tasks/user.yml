@@ -1,5 +1,5 @@
 ---
-- name: Groupe itescia
+- name: Groupe itescia sa
   group:
     name: itesciadmin
     gid: 1001
