@@ -3,11 +3,13 @@ packages:
         - htop
         - git
         - sshpass
- 
 users: 
         - name: test
           password: test
+          url: www.testitescia.fr
         - name: test2
           password: test2
+          url: www.test2itescia.fr
         - name: test3
           password: test3
+          url: www.test3itescia.fr

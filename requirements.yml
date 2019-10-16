@@ -4,3 +4,6 @@
 #
 # role backup from galacy
 - src: ome.mysql_backup 
+#
+# role apache from galaxy
+- src: geerlingguy.apache
