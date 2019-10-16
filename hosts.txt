@@ -1,6 +1,6 @@
-[all]
-database
-web
+#[all]
+#database
+#web
 
 [database]
 #192.168.41.128
