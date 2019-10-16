@@ -10,8 +10,9 @@
     name: itesciadmin
     home: /home/itesciadmin
     uid: 1001
-    group: itesciadmin
-    groups: itescia,sudo
+    groups: itesciadmin,sudo
+    #    group: itesciadmin
+    #    groups: itescia,sudo
     password: ''
     state: present
     
