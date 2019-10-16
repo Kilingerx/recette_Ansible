@@ -7,6 +7,6 @@
     - role: geerlingguy.mysql
     - role: ome.mysql_backup
       mysql_backup_dir: /var/backups/database
-      mysql_backup_filename_format: "db_itescia-%Y%m%d.mysqldump"
+      mysql_backup_filename_format: "bdditescia-%Y%m%d.mysqldump"
       mysql_backup_minimum_expected_size: 100000
 

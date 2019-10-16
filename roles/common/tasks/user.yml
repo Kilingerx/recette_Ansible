@@ -2,7 +2,7 @@
 - name: Groupe itescia 
   group:
     name: itesciadmin
-    gid: 1001
+    gid: 1010
     state: present
     
 - name: user itesciadmin
